@@ -1,2 +1,2 @@
-# audio-DMX-volume-controller
+# Audio_DMX_volume_controller
 control 2 audio line with DMX signal
